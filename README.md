@@ -1,7 +1,7 @@
 # 충청권 도시 양극화 프로젝트 (2023.05.22 ~ 2023.06.14)
 <br/>
 
-## [1. Streamlit 웹 서비스](https://sukyungjang-final-project-app-j1pife.streamlit.app/ "Streamlit Link")<br/>
+## [1. Streamlit 웹 서비스](https://city-project-yr4c0yiihn.streamlit.app/ "Streamlit Link")<br/>
 
 ## [2. 발표 영상](https://www.youtube.com/watch?v=XZtytuxL8ws&list=PL_rM1ZiiHe4vsDgXA2i3fPgEbHg0EHaor&index=2 "Presentation Link")<br/>
 
