@@ -3,9 +3,7 @@
 
 ## [1. Streamlit 웹 서비스](https://sukyungjang-final-project-app-j1pife.streamlit.app/ "Streamlit Link")<br/>
 
-## [2. 발표 영상](https://www.youtube.com/watch?v=YZGgZdaFF78 "Presentation Link")<br/>
-
-## [3. PDF 파일](https://github.com/SukyungJang/Store_Sales_Project/blob/main/pdf/Attention_final.pdf "PDF Link")<br/>
+## [2. 발표 영상](https://www.youtube.com/watch?v=XZtytuxL8ws&list=PL_rM1ZiiHe4vsDgXA2i3fPgEbHg0EHaor&index=2 "Presentation Link")<br/>
 
 ---
 
@@ -24,7 +22,7 @@ NABIS 국가균형발전종합정보시스템: <https://www.nabis.go.kr/> <br/>
 
 ## 📊 ERD
 
-![image](https://github.com/SukyungJang/Final_Project/blob/main/img/ERD.png)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/ERD.pn)
 
 <br/>
 
@@ -45,21 +43,21 @@ NABIS 국가균형발전종합정보시스템: <https://www.nabis.go.kr/> <br/>
 - **행정구역별 소득분포**
   - 충청권 지역별 GRDP, 1인당 GRDP, 1인당 소비금액 10분위 분배 및 지도 시각화
 
-![image](https://github.com/SukyungJang/Final_Project/blob/main/img/GRDP.png)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/GRDP.png)
 
   - 연도별 선 그래프
 
-![image](https://github.com/SukyungJang/Final_Project/blob/main/img/GRDPLINE.png)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/GRDPLINE.png)
 
 - **1차 도시 양극화 지수**
   - 충남형 도시 양극화 지수와 균형발전지표 활용 1차 도시 양극화 지수 개발을 활용한 지도 시각화
 
-![image](https://github.com/SukyungJang/Final_Project/blob/main/img/1차양극화.png)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/1%EC%B0%A8%EC%96%91%EA%B7%B9%ED%99%94.png)
 
 - **최종 도시 양극화 지수**
   - 1차 양극화 지수를 로지스틱 회귀분석을 통해 개발하여 최종 도시 양극화 지수 개발을 활용한 지도 시각화
 
-![image](https://github.com/SukyungJang/Final_Project/blob/main/img/최종양극화.png)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/%EC%B5%9C%EC%A2%85%EC%96%91%EA%B7%B9%ED%99%94.png)
 
 ## 📥 설치 방법
 
