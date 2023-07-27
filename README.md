@@ -6,7 +6,7 @@
 ## [2. 발표 영상](https://www.youtube.com/watch?v=XZtytuxL8ws&list=PL_rM1ZiiHe4vsDgXA2i3fPgEbHg0EHaor&index=2 "Presentation Link")<br/>
 
 ## [3. 포트폴리오](https://github.com/kimmeatan/city-project/blob/main/%EB%8F%84%EC%8B%9C%EC%96%91%EA%B7%B9%ED%99%94.pdf)<br/><br/>
-![screensh](img/홈페이지.png)
+
 ---
 
 ## 💡 목적
