@@ -22,7 +22,7 @@ NABIS 국가균형발전종합정보시스템: <https://www.nabis.go.kr/> <br/>
 
 ## 📊 ERD
 
-![image](https://github.com/kimmeatan/city-project/blob/main/img/ERD.pn)
+![image](https://github.com/kimmeatan/city-project/blob/main/img/ERD.png)
 
 <br/>
 
