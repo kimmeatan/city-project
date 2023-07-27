@@ -69,7 +69,7 @@ NABIS 국가균형발전종합정보시스템: <https://www.nabis.go.kr/> <br/>
 
 - 프로젝트 파일을 다운로드 받습니다.
 ```
-git clone https://github.com/SukyungJang/Final_Project.git
+git clone https://github.com/kimmeatan/city_Project.git
 ```
 - 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
 ```
